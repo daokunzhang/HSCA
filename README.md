@@ -1,4 +1,6 @@
-# Code for ICDM-2016 paper "Homophily, Structure, and Content Augmented Network Representation Learning"
+# HSCA
+
+Code for ICDM-2016 paper "Homophily, Structure, and Content Augmented Network Representation Learning"
 
 The main program is start.m.
 
